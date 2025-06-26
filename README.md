@@ -1,1 +1,1 @@
-Ici ne se trouvent que pures expérimentations pour découcrir le JS.
+Ici ne se trouvent que pures expérimentations pour découvrir le JS.
